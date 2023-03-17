@@ -1,0 +1,22 @@
+.the, .businessman {
+    color: blue;
+  }
+  
+  .businessman {
+    background: yellow;
+  }
+  
+  .the {
+    font-weight: bold;
+  }
+  
+  .asteroid {
+    border: solid green 1px;
+    margin: none; 
+     font-weight: bold;
+  }
+  
+  .star {
+     border: solid green 1px;
+     font-weight: bold;
+  }
